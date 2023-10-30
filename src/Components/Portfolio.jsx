@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ai.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Artificial Intelligence";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Future Of AI 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AI is truly a revolutionary feat of computer science, set to become a core component of all modern software over the coming years and decades.",
+    url: "https://www.cigionline.org/articles/cyber-security-battlefield/?utm_source=google_ads&utm_medium=grant&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzqGHvxY93NCdG4JjSFJuQXGmmXo2HCW1EHDqFyz4kV9utS10JDHZdYaAvPUEALw_wcB",
   },
   {
-    title: "Web Development for Beginners",
+    title: "About Data Analytics",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Experts at the American Institutes for Research",
+    url: "https://www.air.org/our-capabilities?gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzoSjez6A9d4jvnNXpGOYPIZOHbpld4HWPjJ6wHw7bSkPK4vkUeCBWcaAnoGEALw_wcB",
   },
   {
-    title: "My Resume Site",
+    title: "AI in Healthcare: The Gift of Time and Peace of Mind",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Can an artificial intelligence chatbot assistant, provide responses to patient questions that are of comparable quality and empathy to those written by physicians?",
+    url: "https://pubsonline.informs.org/magazine/analytics?utm_term=data%20analysis%20report&utm_campaign=Analytics+magazine&utm_source=adwords&utm_medium=ppc&hsa_tgt=kwd-588184562&hsa_grp=130118060346&hsa_src=g&hsa_net=adwords&hsa_mt=b&hsa_ver=3&hsa_ad=566414032502&hsa_acc=6773547382&hsa_kw=data%20analysis%20report&hsa_cam=15456064506&gad=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0Czqthv09kS5e-Z77G5jWsgWFrR6qUXLz7m64zSEaHQGabAZWAbBuqNIaAmOiEALw_wcB",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Analyze Your Data",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An Introduction to Qualitative Research.",
+    url: "https://istss.org/education-research/istss-research-guidelines/trauma-research-methods/an-introduction-to-qualitative-research-methods-fo?gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzqLard9LMoPTmiF_Yi7wHrDYAk_zRG7O6uaRGPZDNXoE0wyW1ONqiUaAjLEEALw_wcB",
   },
 ];
 
